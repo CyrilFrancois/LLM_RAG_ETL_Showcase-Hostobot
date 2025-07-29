@@ -1,0 +1,2 @@
+git update-index --no-assume-unchanged .env
+git update-index --assume-unchanged .env  # ignore further changes to a file
