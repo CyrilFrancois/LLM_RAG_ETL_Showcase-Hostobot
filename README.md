@@ -1,5 +1,5 @@
 # demo-llmrag-hostobot
-A showcase of a simple LLM (chatGPT) + RAG (NeoJ) + MiddleBack/ETL (Python) about requesting in natural langage hospitals data.
+Using an Agentic Microservices Architecture, this is a showcase of a simple LLM (chatGPT) + RAG (NeoJ) + MiddleBack/ETL (Python) about requesting in natural langage hospitals data.
 
 To be able to run the application, you only need to have NEO4J IDs and an OpenAI Key and FILL THE .ENV FILE. (and have docker desktop running to run the run command).
 
