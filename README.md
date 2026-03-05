@@ -7,7 +7,6 @@ To run the application :
 >>> docker-compose up --build
 
 Too see the local frontend running of the chatbot got to :
-http://localhost:8000/docs#/
 http://localhost:8501/
 
 
