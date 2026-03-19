@@ -9,9 +9,9 @@ Traditional RAG systems often struggle with structured aggregation and relations
 - ⚙️ **Python Tools** → real-time simulations and computations
 
 <p align="center">
-  <img src="img/interface.png" width="900" alt="Hosto-bot User Interface">
+  <img src="img/interface.png" style="max-width: 100%; height: auto;" alt="Hosto-bot Interface">
   <br>
-  <i>The Hosto-bot interface showing real-time chat and Agent reasoning traces.</i>
+  <sub><i>Hosto-bot UI: Real-time chat with visible Agent reasoning traces.</i></sub>
 </p>
 ---
 
@@ -140,9 +140,9 @@ The Neo4j database is modeled to handle multi-hop questions.
 - `(Hospital)-[:EMPLOYS]->(Physician)`
 
 <p align="center">
-  <img src="img/dbscheme.png" width="700" alt="Neo4j Graph Schema">
+  <img src="img/dbscheme.png" style="max-width: 80%; height: auto;" alt="Neo4j Schema">
   <br>
-  <i>The Graph Ontology: Relationships between Hospitals, Patients, and Providers.</i>
+  <sub><i>Graph Ontology: Mapping relationships between Patients, Visits, and Providers.</i></sub>
 </p>
 ---
 
