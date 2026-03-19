@@ -8,6 +8,7 @@ Traditional RAG systems often struggle with structured aggregation and relations
 - 🧠 **Graph Cypher Generation** → quantitative analytics
 - ⚙️ **Python Tools** → real-time simulations and computations
 
+![Hosto-bot User Interface](img/interface.png)
 ---
 
 ## 🎯 Project Goals & Context
@@ -134,6 +135,7 @@ The Neo4j database is modeled to handle multi-hop questions.
 - `(Visit)-[:WRITES]->(Review)`
 - `(Hospital)-[:EMPLOYS]->(Physician)`
 
+![Neo4j Graph Database Schema](img/dbscheme.png)
 ---
 
 ## 🚀 Installation & Deployment
