@@ -80,6 +80,10 @@ LLM_RAG_ETL_Showcase-Hostobot/
 ├── docker-compose.yml          # Orchestration for all 3 services
 ├── requirements.txt            # Root dependencies (mostly for local dev)
 │
+├── img/                        # Images to display in the Readme
+│   ├── interface.png
+│   ├── dbscheme.png
+│
 ├── hospital_neo4j_etl/         # DATA LAYER
 │   ├── src/
 │   │   ├── hospital_bulk_csv_write.py  # Bulk loader & relationship mapper
