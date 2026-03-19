@@ -13,7 +13,7 @@ Traditional RAG systems often struggle with structured aggregation and relations
   <br>
   <sub><i>Hosto-bot UI: Real-time chat with visible Agent reasoning traces.</i></sub>
 </p>
----
+
 
 ## 🎯 Project Goals & Context
 
@@ -144,7 +144,7 @@ The Neo4j database is modeled to handle multi-hop questions.
   <br>
   <sub><i>Graph Ontology: Mapping relationships between Patients, Visits, and Providers.</i></sub>
 </p>
----
+
 
 ## 🚀 Installation & Deployment
 
